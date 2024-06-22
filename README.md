@@ -4,6 +4,7 @@ To analyze Netflix's 2021 dataset to extract valuable insights regarding TV show
 
 **Dataset**:
 The dataset includes information on TV shows and movies available on Netflix in 2021, with attributes such as title, cast, directors, country, release year, duration, and ratings.
+Note: This dataset was downloaded from Kaggle(URL: https://www.kaggle.com/datasets/shivamb/netflix-shows/discussion/279376)
 
 **Key Questions and Findings**:
 Q1) For any TV Show, show its cast and duration.
